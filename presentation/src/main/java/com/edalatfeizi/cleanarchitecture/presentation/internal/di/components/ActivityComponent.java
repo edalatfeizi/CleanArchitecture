@@ -14,10 +14,10 @@ import dagger.Component;
  * Subtypes of ActivityComponent should be decorated with annotation:
  * {@link com.edalatfeizi.cleanarchitecture.presentation.internal.di.PerActivity}
  */
-@PerActivity
-@Component( dependencies = ApplicationComponent.class, modules = ActivityModule.class)
-public interface ActivityComponent
-{
-    //Exposed to sub-graphs
-    Activity activity();
-}
+//@PerActivity
+//@Component( dependencies = ApplicationComponent.class, modules = ActivityModule.class)
+//public interface ActivityComponent
+//{
+//    //Exposed to sub-graphs
+//    Activity activity();
+//}

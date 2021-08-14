@@ -1,4 +1,4 @@
-package com.edalatfeizi.cleanarchitecture;
+package com.edalatfeizi.cleanarchitecture.presentation;
 
 import org.junit.Test;
 
